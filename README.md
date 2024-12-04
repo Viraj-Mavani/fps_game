@@ -1,12 +1,15 @@
-# 3D FPS Survival Game
+# Primal Fury - 3D FPS Survival Game
 
 ## Overview
 
 First 3D FPS game created from scratch using Unity! This game is a survival-based first-person shooter where players must fend off waves of attacking animals, manage their health and ammo, and utilize power-ups to survive the onslaught.
 
-The UI breaks every time after the main scene has run. i've tried many things but cant figure out anything, it might be related to RayCasting but i dont have clear idea about that.
-
 ---
+
+## Latest Fix:
+ - Fixed Menu
+ - Fixed UI Components Hide issue while Active UI
+ - Fixed Meele Attack
 
 ## How to Play
 
@@ -20,7 +23,8 @@ The UI breaks every time after the main scene has run. i've tried many things bu
    - **Left Mouse Button**: Shoot.
    - **Spacebar**: Jump.
    - **Shift (Toggle)**: Sprint (if ammo allows).
-   - **Q**: Meele Attack.
+   - **Q**: Meele Attack (Single hit Kill).
+   - **C**: Crouch.
    - **Num input**: Weapon Select.
 
 
@@ -36,10 +40,10 @@ The UI breaks every time after the main scene has run. i've tried many things bu
 ## Features
 
 - **Player Mechanics**:
-  - Movement (Walking, Sprinting, Jumping).
+  - Movement (Walking, Sprinting, Jumping, Crouching).
 
 - **Inventory Mechanics**:
-  - Shooting with two distinct guns.
+  - Shooting with two distinct guns and Melee Attack.
   - Weapon Select with unique characteristics.
 
 - **Enemy AI**:
