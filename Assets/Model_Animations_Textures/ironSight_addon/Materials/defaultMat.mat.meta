@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d62b1b538b2045779d60431588fe5b4
+timeCreated: 1475317369
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73776
+  packageName: Easy FPS
+  packageVersion: 1.0
+  assetPath: Assets/Easy FPS/Model_Animations_Textures/ironSight_addon/Materials/defaultMat.mat
+  uploadId: 157938

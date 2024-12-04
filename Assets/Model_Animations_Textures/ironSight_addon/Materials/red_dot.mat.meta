@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0b7e3b77b1fc74b639825b9b8e5ddb81
+timeCreated: 1475319636
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73776
+  packageName: Easy FPS
+  packageVersion: 1.0
+  assetPath: Assets/Easy FPS/Model_Animations_Textures/ironSight_addon/Materials/red_dot.mat
+  uploadId: 157938

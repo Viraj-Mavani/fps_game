@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 266217131f4ee48fb8fb37a299eb74ec
+timeCreated: 1475317467
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73776
+  packageName: Easy FPS
+  packageVersion: 1.0
+  assetPath: Assets/Easy FPS/Model_Animations_Textures/ironSight_addon/Iron Sight_Low.prefab
+  uploadId: 157938

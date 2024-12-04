@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 52d7c5ee3e0cf43d9b5aab3e5df17e7d
+timeCreated: 1474792462
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73776
+  packageName: Easy FPS
+  packageVersion: 1.0
+  assetPath: Assets/Easy FPS/Resources/NewGun_semi.prefab
+  uploadId: 157938

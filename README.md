@@ -4,6 +4,8 @@
 
 First 3D FPS game created from scratch using Unity! This game is a survival-based first-person shooter where players must fend off waves of attacking animals, manage their health and ammo, and utilize power-ups to survive the onslaught.
 
+The UI breaks every time after the main scene has run. i've tried many things but cant figure out anything, it might be related to RayCasting but i dont have clear idea about that.
+
 ---
 
 ## How to Play

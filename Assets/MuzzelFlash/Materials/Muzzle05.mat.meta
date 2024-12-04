@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 42e97eacea5b1d24aa1d08e05f52a2f3
+timeCreated: 1474650154
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73776
+  packageName: Easy FPS
+  packageVersion: 1.0
+  assetPath: Assets/Easy FPS/MuzzelFlash/Materials/Muzzle05.mat
+  uploadId: 157938

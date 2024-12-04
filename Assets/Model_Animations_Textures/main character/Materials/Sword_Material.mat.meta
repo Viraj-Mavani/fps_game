@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fab18c70ffa50cc43bb35e8ed62aba45
+timeCreated: 1474642354
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73776
+  packageName: Easy FPS
+  packageVersion: 1.0
+  assetPath: Assets/Easy FPS/Model_Animations_Textures/main character/Materials/Sword_Material.mat
+  uploadId: 157938

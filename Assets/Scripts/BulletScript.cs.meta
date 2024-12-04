@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 15e3d39d01a5946499fa8b6b5dc1b00f
+timeCreated: 1462020582
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73776
+  packageName: Easy FPS
+  packageVersion: 1.0
+  assetPath: Assets/Easy FPS/Scripts/BulletScript.cs
+  uploadId: 157938

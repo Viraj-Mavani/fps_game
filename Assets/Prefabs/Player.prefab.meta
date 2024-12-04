@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c391f12a928274acab8576bb6030641d
+timeCreated: 1471512204
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73776
+  packageName: Easy FPS
+  packageVersion: 1.0
+  assetPath: Assets/Easy FPS/Prefabs/Player.prefab
+  uploadId: 157938
